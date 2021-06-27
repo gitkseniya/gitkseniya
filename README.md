@@ -1,11 +1,11 @@
-<h3 align="center">
+<h3>
   Welcome to Kseniya's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<p align="center">
-  Back-end software engineer<br>
-  finishing marathon at Turing School of Software & Design 📚
+<p>
+  👩‍💻 Back-end software engineer<br>
+  📚 Finishing marathon at Turing School of Software & Design
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitkseniya&hide=stars&theme=yeblu)
