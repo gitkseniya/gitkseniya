@@ -4,7 +4,8 @@
 </h3>
 
 <p align="center">
-  Back-end software engineer finishing marathon at Turing School of Software & Design 📚
+  Back-end software engineer<br>
+  finishing marathon at Turing School of Software & Design 📚
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitkseniya&hide=stars&theme=yeblu)
