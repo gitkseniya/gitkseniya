@@ -1,5 +1,14 @@
-### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitkseniya)](https://github.com/gitkseniya/github-readme-stats)
+<h3 align="center">
+  Welcome to Kseniya's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<p align="center">
+  Back-end software engineer finishing marathon at Turing School of Software & Design 📚
+</p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitkseniya&hide=stars&theme=yeblu)
+](https://github.com/gitkseniya/github-readme-stats)
 
 <!--
 **gitkseniya/gitkseniya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
