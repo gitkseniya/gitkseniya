@@ -41,7 +41,7 @@
 --->
 
 <div align="center" >
-  <h3>Working with 🎧 </h3>
+  <h3>Music to my ears 🎧 </h3>
   
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/12178515106)
  </div>
