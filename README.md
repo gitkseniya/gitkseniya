@@ -4,7 +4,8 @@
 </h3>
 
 <p align="center">
-  👩‍💻 Back-end software engineer<br>
+  👩‍💻 Back-end software engineer     
+  🌎 Belarus to USA<br>
   📚 Finishing marathon at Turing School of Software & Design
 </p>
 
@@ -20,25 +21,34 @@
 <hr></hr>
 </div>
 
-<!---
+
 <h3 align="center"> Tools I use :hammer_and_wrench:</h3>
 <p align="center">
   
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-<a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
---->
+
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat-square&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=flat-square&logo=ruby-on-rails&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=red)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![TravisCI](https://img.shields.io/badge/travisci-%232B2F33.svg?style=flat-square&logo=travis&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+  
 
 <hr></hr>
 
-<!---
+
 
 <h3 align="center"> Let's get connected</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-sivramshastri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kseniyakudzelich/)](https://www.linkedin.com/in/kseniyakudzelich) 
-[![Instagram Badge](https://img.shields.io/badge/-@prince__shivaram-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/itsksseniya/)](https://www.instagram.com/itsksseniya/)
---->
+[![Gmail Badge](https://img.shields.io/badge/-kseniya.kudelich@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kseniya.kudelich@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-kseniyakudzelich-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kseniyakudzelich/ "Connect on LinkedIn")
+[![Telegram Badge](https://img.shields.io/badge/-dancinngcats-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/dancinngcats "Contact on Telegram")
+[![Instagram Badge](https://img.shields.io/badge/-itsksseniya-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/itksseniya/ "Follow on Instagram")
+<hr></hr>
 
 <div align="center" >
   <h3>Music to my ears 🎧 </h3>
