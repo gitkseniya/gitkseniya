@@ -42,7 +42,7 @@
 
 
 
-<h3 align="center"> Let's get connected</h3>
+<h3 align="center"> Let's get connected 🔗</h3>
 
 [![Gmail Badge](https://img.shields.io/badge/-kseniya.kudelich@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kseniya.kudelich@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-kseniyakudzelich-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kseniyakudzelich/ "Connect on LinkedIn")
