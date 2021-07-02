@@ -35,6 +35,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku)
 ![TravisCI](https://img.shields.io/badge/travisci-%232B2F33.svg?style=flat&logo=travis&logoColor=white)
+![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=flat&logo=circleci&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
   
 
