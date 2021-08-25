@@ -6,7 +6,7 @@
 <p align="center">
   👩‍💻 Back-end software engineer     
   🌎 Belarus to USA<br>
-  📚 Finishing marathon at Turing School of Software & Design
+  📚 Turing School of Software & Design grad
 </p>
 
 
