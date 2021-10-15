@@ -56,5 +56,5 @@
 <div align="center" >
   <h3>Music to my ears 🎧 </h3>
   
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/12178515106)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/12178515106)
  </div>
