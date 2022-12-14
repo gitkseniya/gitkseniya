@@ -4,9 +4,9 @@
 </h3>
 
 <p align="center">
-  👩‍💻 Back-end software engineer     
-  🌎 Belarus to USA<br>
-  📚 Turing School of Software & Design grad
+  👩‍💻 Software engineer     
+  🌎 Belarus & USA<br>
+  📚 Consultant
 </p>
 
 
