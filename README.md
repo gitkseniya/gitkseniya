@@ -31,11 +31,7 @@
 
 
 <h3 align="center"> Let's get connected 🔗</h3>
-
-[![Gmail Badge](https://img.shields.io/badge/-kseniya.kudelich@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kseniya.kudelich@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-kseniyakudzelich-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kseniyakudzelich/ "Connect on LinkedIn")
-[![Telegram Badge](https://img.shields.io/badge/-dancinngcats-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/dancinngcats "Contact on Telegram")
-[![Instagram Badge](https://img.shields.io/badge/-itsksseniya-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/itsksseniya/ "Follow on Instagram")
 <hr></hr>
 
 <div align="center" >
