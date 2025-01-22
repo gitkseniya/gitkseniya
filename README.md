@@ -26,13 +26,7 @@
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=light-pink)  
 
-<hr></hr>
 
-
-
-<h3 align="center"> Let's get connected 🔗</h3>
-[![Linkedin Badge](https://img.shields.io/badge/-kseniyakudzelich-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kseniyakudzelich/ "Connect on LinkedIn")
-<hr></hr>
 
 <div align="center" >
   <h3>Music to my ears 🎧 </h3>
