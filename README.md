@@ -5,7 +5,6 @@
 
 <p align="center">
   👩‍💻 Software engineer     
-  🌎 Belarus & USA<br>
   📚 Consultant
 </p>
 
